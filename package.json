@@ -1,6 +1,6 @@
 {
   "name": "encryptor-js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Encryptor-js encrypt and decrypt messages with a secret.",
   "main": "src/index.js",
   "scripts": {},
@@ -9,7 +9,21 @@
     "url": "https://github.com/andcosta/encryptor-js.git"
   },
   "files": ["src"],
-  "keywords": ["encryptor", "encryption", "crypto", "aes", "encrypt", "decrypt", "password", "secret", "bcrypt"],
+  "keywords": [
+    "encryptor",
+    "encryption",
+    "decryption",
+    "crypto",
+    "crypter",
+    "aes",
+    "aes256",
+    "encrypt",
+    "decrypt",
+    "password",
+    "secret",
+    "bcrypt",
+    "cipher"
+  ],
   "author": {
     "name": "Anderson Costa",
     "email": "andcosta.dev@gmail.com"
