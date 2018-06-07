@@ -1,3 +1,7 @@
+## 0.2.2 (Jun 07, 2018)
+
+* Update readme - Usage
+
 ## 0.2.1 (Jun 06, 2018)
 
 * Readme - Usage

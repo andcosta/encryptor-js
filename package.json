@@ -1,6 +1,6 @@
 {
   "name": "encryptor-js",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Encryptor-js encrypt and decrypt messages with a secret.",
   "main": "src/index.js",
   "scripts": {},

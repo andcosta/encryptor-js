@@ -21,7 +21,7 @@ var encryptedMessage = new Encryptor().encrypt('message', 'secret');
 var decryptedMessage = new Encryptor().decrypt(encryptedMessage, 'secret');
 
 console.log(encryptedMessage); // 8cfa1d25147d06730fb91f162fecf8d0
-console.log(decryptedMessage); // secret
+console.log(decryptedMessage); // message
 ```
 
 ## Author
